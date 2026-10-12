@@ -9,6 +9,10 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+sdkconfig
+sdkconfig.old
+managed_components/
+main/wakeup_config.h
 develop-eggs/
 dist/
 downloads/
